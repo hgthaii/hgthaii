@@ -20,6 +20,11 @@
 
 <img align="left" alt="GIF2" src="https://github.com/hgthaii/hgthaii/blob/main/gif2.gif.gif" width="330"/>
 
+<div style="border: 1px solid #fff">
+    <img align="right" alt="GIF3" src="https://github.com/hgthaii/hgthaii/blob/main/text.gif" width="500"/>
+</div>
+
+
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="justify">
@@ -33,7 +38,3 @@
  ![Visitor Count](https://profile-counter.glitch.me/{hgthaii}/count.svg)
  
  ⭐️ From [Alan](https://github.com/hgthaii)
- 
- <div style="border: 1px solid #fff">
-     <img align="right" alt="GIF3" src="https://github.com/hgthaii/hgthaii/blob/main/text.gif" width="500"/>
- </div>
