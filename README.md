@@ -34,4 +34,6 @@
  
  ⭐️ From [Alan](https://github.com/hgthaii)
  
- <img align="right" alt="GIF3" src="https://github.com/hgthaii/hgthaii/blob/main/text.gif" width="100"/>
+ <div style="border: 1px solid #fff">
+     <img align="right" alt="GIF3" src="https://github.com/hgthaii/hgthaii/blob/main/text.gif" width="500"/>
+ </div>
