@@ -33,3 +33,5 @@
  ![Visitor Count](https://profile-counter.glitch.me/{hgthaii}/count.svg)
  
  ⭐️ From [Alan](https://github.com/hgthaii)
+ 
+ <img align="right" alt="GIF3" src="https://github.com/hgthaii/hgthaii/blob/main/text.gif" width="100"/>
