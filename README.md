@@ -18,11 +18,11 @@
 - 🔧 &nbsp; PyCharm | Visual Studio Code | Eclipse | Git
 - 🖥 &nbsp; Illustrator | Photoshop | Corel
 
-<img align="left" alt="GIF2" src="https://github.com/hgthaii/hgthaii/blob/main/gif2.gif.gif" width="300"/>
+<img align="left" alt="GIF2" src="https://github.com/hgthaii/hgthaii/blob/main/gif2.gif.gif" width="330"/>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center">
+<p align="justify">
 &nbsp; <a href="https://fb.com/hgthaii" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/48/000000/facebook.png" width="50"/></a>  
 &nbsp; <a href="https://www.instagram.com/_hgthaii" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/ho%C3%A0ng-th%C3%A1i-079050202" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="50" /></a>
