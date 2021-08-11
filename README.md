@@ -29,9 +29,9 @@
 &nbsp; <a href="mailto:hoangthai.txt@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/48/000000/gmail.png"  width="50" /></a>
 </p>
 
+<img alig="right" alt="GIF3" src="https://github.com/hgthaii/hgthaii/blob/main/text.gif" width="420"/>
+
 #### **Visitor Count**
  ![Visitor Count](https://profile-counter.glitch.me/{hgthaii}/count.svg)
  
  ⭐️ From [Alan](https://github.com/hgthaii)
- 
- <img padding-left="35%" alt="GIF3" src="https://github.com/hgthaii/hgthaii/blob/main/text.gif" width="420"/>
