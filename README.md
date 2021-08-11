@@ -18,7 +18,7 @@
 - 🔧 &nbsp; PyCharm | Visual Studio Code | Eclipse | Git
 - 🖥 &nbsp; Illustrator | Photoshop | Corel
 
-<img align="left" alt="GIF2" src="https://github.com/hgthaii/hgthaii/blob/main/gif2.gif.gif" width="500"/>
+<img align="left" alt="GIF2" src="https://github.com/hgthaii/hgthaii/blob/main/gif2.gif.gif" width="300"/>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
@@ -29,7 +29,7 @@
 &nbsp; <a href="mailto:hoangthai.txt@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/48/000000/gmail.png"  width="50" /></a>
 </p>
 
-⭐️ From [Alan](https://github.com/hgthaii)
-
 #### **Visitor Count**
  ![Visitor Count](https://profile-counter.glitch.me/{hgthaii}/count.svg)
+ 
+ ⭐️ From [Alan](https://github.com/hgthaii)
