@@ -22,7 +22,7 @@
 
 <img align="left" alt="GIF2" src="https://github.com/hgthaii/hgthaii/blob/main/gif2.gif.gif" width="330"/>
 
-<h3 align="center"> 🤝🏻 Connect with Me </h3>
+<h3> 🤝🏻 Connect with Me </h3>
 
 <p align="justify">
 &nbsp; <a href="https://fb.com/hgthaii" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/48/000000/facebook.png" width="50"/></a>  
