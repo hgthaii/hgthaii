@@ -18,7 +18,7 @@
 - 🔧 &nbsp; PyCharm | Visual Studio Code | Eclipse | Git
 - 🖥 &nbsp; Illustrator | Photoshop | Corel
 
-<img align="right" alt="GIF2" src="https://github.com/hgthaii/hgthaii/blob/main/gif2.gif.gif" width="400"/>
+<img align="left" alt="GIF2" src="https://github.com/hgthaii/hgthaii/blob/main/gif2.gif.gif" width="500"/>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
