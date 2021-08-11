@@ -17,8 +17,9 @@
 - 🛢 &nbsp; MySQL
 - 🔧 &nbsp; PyCharm | Visual Studio Code | Eclipse | Git
 - 🖥 &nbsp; Illustrator | Photoshop | Corel
-
+<p style="display: flex; align-items: center; justify-content: center">
 <img alig="center" alt="GIF3" src="https://github.com/hgthaii/hgthaii/blob/main/text.gif" width="420"/>
+</p>
 
 <img align="left" alt="GIF2" src="https://github.com/hgthaii/hgthaii/blob/main/gif2.gif.gif" width="330"/>
 
