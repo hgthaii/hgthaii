@@ -16,7 +16,7 @@
 - 🌐 &nbsp; HTML | CSS | JavaScript
 - 🛢 &nbsp; MySQL
 - 🔧 &nbsp; PyCharm | Visual Studio Code | Eclipse | Git
-- 🖥 &nbsp; Illustrator | Photoshop
+- 🖥 &nbsp; Illustrator | Photoshop | Corel
 
 </br>
 
@@ -26,7 +26,7 @@
 &nbsp; <a href="https://fb.com/hgthaii" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/48/000000/facebook.png" width="50"/></a>  
 &nbsp; <a href="https://www.instagram.com/_hgthaii" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/ho%C3%A0ng-th%C3%A1i-079050202" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:hoangthai.txt@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="mailto:hoangthai.txt@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/48/000000/gmail.png"  width="50" /></a>
 </p>
 
 ⭐️ From [hgthaii](https://github.com/hgthaii)
