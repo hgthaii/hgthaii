@@ -1,5 +1,5 @@
-<h2> Hey there! I'm Alan. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<h2> Hey there! I'm Alan. <img src="https://github.com/hgthaii/hgthaii/blob/main/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://github.com/hgthaii/hgthaii/blob/main/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -20,6 +20,8 @@
 
 </br>
 
+<img align="center" alt="GIF" src="https://github.com/hgthaii/hgthaii/blob/main/gif2.gif.gif" width="300"/>
+
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
@@ -29,7 +31,7 @@
 &nbsp; <a href="mailto:hoangthai.txt@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/48/000000/gmail.png"  width="50" /></a>
 </p>
 
+⭐️ From [Alan](https://github.com/hgthaii)
+
 #### **Visitor Count**
  ![Visitor Count](https://profile-counter.glitch.me/{hgthaii}/count.svg)
-
-⭐️ From [Alan](https://github.com/hgthaii)
