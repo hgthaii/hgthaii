@@ -19,8 +19,6 @@
 - 🖥 &nbsp; Illustrator | Photoshop | Corel
 
 <img align="left" alt="GIF2" src="https://github.com/hgthaii/hgthaii/blob/main/gif2.gif.gif" width="330"/>
-<!-- <img align="right" alt="GIF3" src="https://github.com/hgthaii/hgthaii/blob/main/text.gif" width="420"/> -->
-
 
 <h3 align="center"> 🤝🏻 Connect with Me </h3>
 
@@ -31,11 +29,9 @@
 &nbsp; <a href="mailto:hoangthai.txt@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/48/000000/gmail.png"  width="50" /></a>
 </p>
 
-<p align="center">
 #### **Visitor Count**
  ![Visitor Count](https://profile-counter.glitch.me/{hgthaii}/count.svg)
- </p>
  
- <p align="center">
  ⭐️ From [Alan](https://github.com/hgthaii)
- </p>
+ 
+ <img align="center" alt="GIF3" src="https://github.com/hgthaii/hgthaii/blob/main/text.gif" width="420"/>
