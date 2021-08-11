@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Alan. <img src="https://github.com/hgthaii/hgthaii/blob/main/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://github.com/hgthaii/hgthaii/blob/main/gif3.gif" width="500" height="460"/>
+<img align="right" alt="GIF" src="https://github.com/hgthaii/hgthaii/blob/main/gif3.gif" width="500" height="480"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
