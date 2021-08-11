@@ -20,7 +20,7 @@
 
 </br>
 
-<img align="center" alt="GIF" src="https://github.com/hgthaii/hgthaii/blob/main/gif2.gif.gif" width="300"/>
+<img align="center" alt="GIF2" src="https://github.com/hgthaii/hgthaii/blob/main/gif2.gif.gif" width="400"/>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
