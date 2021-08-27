@@ -12,11 +12,11 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | C++  
-- 🌐 &nbsp; HTML | CSS | JavaScript
+- 💻 &nbsp; C++ | .NET | Java
+- 🌐 &nbsp; HTML | CSS | JS | MVC
 - 🛢 &nbsp; MySQL
-- 🔧 &nbsp; PyCharm | Visual Studio Code | Eclipse | Git
-- 🖥 &nbsp; Illustrator | Photoshop | Corel
+- 🔧 &nbsp; Visual Studio Code | Eclipse | VS
+- 🖥 &nbsp; 3D Paint | Photoshop | Corel
 
 <img alig="justify" alt="GIF3" src="https://github.com/hgthaii/hgthaii/blob/main/text.gif" width="420"/>
 
