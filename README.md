@@ -12,8 +12,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C++ | .NET | Java
-- 🌐 &nbsp; HTML | CSS | JS | MVC
+- 💻 &nbsp; C++ | C# | Java
+- 🌐 &nbsp; HTML | CSS | JS
 - 🛢 &nbsp; MySQL
 - 🔧 &nbsp; Visual Studio Code | Eclipse | VS
 - 🖥 &nbsp; 3D Paint | Photoshop | Corel
