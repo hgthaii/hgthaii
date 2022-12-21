@@ -1,6 +1,4 @@
 <h2> Hey there! I'm Alan. <img src="https://github.com/hgthaii/hgthaii/blob/main/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://github.com/hgthaii/hgthaii/blob/main/gif3.gif" width="500" height="480"/>
-
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I'm currently learning User Interface development
@@ -12,11 +10,11 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C++ | C# | Java
-- 🌐 &nbsp; HTML | CSS | JS
-- 🛢 &nbsp; MySQL
-- 🔧 &nbsp; Visual Studio Code | Eclipse | VS
-- 🖥 &nbsp; 3D Paint | Photoshop | Corel
+- 💻 &nbsp; C++ | C# | Python
+- 🌐 &nbsp; HTML-CSS | React | Angular
+- 🛢 &nbsp; MySQL, SQL Server
+- 🔧 &nbsp; VS Code | Hitachi | VS | Postman | Sublime Text
+- 🖥 &nbsp; Photoshop | CoreIDraw
 
 <h3> 🤝🏻 Connect with Me </h3>
 
