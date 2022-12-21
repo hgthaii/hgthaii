@@ -18,10 +18,6 @@
 - 🔧 &nbsp; Visual Studio Code | Eclipse | VS
 - 🖥 &nbsp; 3D Paint | Photoshop | Corel
 
-<img alig="justify" alt="GIF3" src="https://github.com/hgthaii/hgthaii/blob/main/text.gif" width="420"/>
-
-<img align="left" alt="GIF2" src="https://github.com/hgthaii/hgthaii/blob/main/gif2.gif.gif" width="330"/>
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="justify">
