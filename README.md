@@ -11,7 +11,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; C++ | C# | Python
-- 🌐 &nbsp; HTML-CSS | React | Angular
+- 🌐 &nbsp; HTML-CSS | React | Angular | NodeJS
 - 🛢 &nbsp; MySQL, SQL Server
 - 🔧 &nbsp; VS Code | Hitachi | VS | Postman | Sublime Text
 - 🖥 &nbsp; Photoshop | CoreIDraw
