@@ -1,5 +1,3 @@
-<img src="https://github.com/hgthaii/hgthaii/blob/main/Hi.gif" width="25">
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="justify">
@@ -12,4 +10,4 @@
 #### **Visitor Count**
  ![Visitor Count](https://profile-counter.glitch.me/{hgthaii}/count.svg)
  
- ⭐️ From [Alan](https://github.com/hgthaii)
+ ⭐️ From [Thái](https://github.com/hgthaii)
