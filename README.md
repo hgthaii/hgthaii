@@ -1,20 +1,4 @@
-<h2> Hey there! I'm Alan. <img src="https://github.com/hgthaii/hgthaii/blob/main/Hi.gif" width="25"></h2>
-<h3> 👨🏻‍💻 About Me </h3>
-
-- 🔭 &nbsp; I'm currently learning User Interface development
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Computer Science, computer programming.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and playing Guitar are my hobbies
-- ☕ &nbsp; I believe that perfect cup of coffee can be the ultimate solution for any stress. 
-
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; C++ | C# | Python
-- 🌐 &nbsp; HTML-CSS | React | Angular | NodeJS
-- 🛢 &nbsp; MySQL, SQL Server
-- 🔧 &nbsp; VS Code | Hitachi | VS | Postman | Sublime Text
-- 🖥 &nbsp; Photoshop | CoreIDraw
+<img src="https://github.com/hgthaii/hgthaii/blob/main/Hi.gif" width="25">
 
 <h3> 🤝🏻 Connect with Me </h3>
 
